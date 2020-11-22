@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## About Lauren
 
-You can use the [editor on GitHub](https://github.com/laurengalle/laurengalle.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a senior at Oregon State University. I am currently in the process of obtaining my Bachelor of Science degree in Computer Science. My applied option is in Human Computer Interaction, where I focus on making the user experience as pleasing and effective for the user as possible. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This field has allowed me to explore different areas of computer science, from back-end database work to more artistic front-end work. I value all aspects of computer science because it is necessary for everything to work together to create a positive experience for the user. 
 
-### Markdown
+Once I obtain my BS degree in Computer Science, I hope to use what I have learned to make a difference in this field. I am excited to work in the industry and to be a part of a team working towards a bigger goal in technology. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My links to my projects and LinkedIn are linked below. These will help provide a better understanding of my past work and qualifications in the field of Computer Science. 
+
+
+### Lauren's Links
+
+Below are the my links to my other work and experience that you can browse to gain a better understanding of me, as a programmer. 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+My Projects
 
-- Bulleted
-- List
+[Lauren's Projects: ] (./projects.md)
 
-1. Numbered
-2. List
+My Network
 
-**Bold** and _Italic_ and `Code` text
+[Lauren's LinkedIn: ] (https://www.linkedin.com/in/lauren-galle-775724187/)
 
-[Link](url) and ![Image](src)
+[Lauren's GitHub: ] (https://github.com/laurengalle)
+
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/laurengalle/laurengalle.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
