@@ -1,5 +1,7 @@
 ![Image of Lauren](Lauren_Profile.png | width=100)
 
+<img src="Lauren_Profile.png" width="100" height="100">
+
 ## About Lauren
 
 I am a senior at Oregon State University. I am currently in the process of obtaining my Bachelor of Science degree in Computer Science. My applied option is in Human Computer Interaction, where I focus on making the user experience as pleasing and effective for the user as possible. 
