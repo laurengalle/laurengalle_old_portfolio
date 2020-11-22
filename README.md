@@ -13,16 +13,12 @@ My links to my projects and LinkedIn are linked below. These will help provide a
 
 Below are the my links to my other work and experience that you can browse to gain a better understanding of me, as a programmer. 
 
-```markdown
+**My Projects**
 
-My Projects
+Click here to learn about the different projects I have contributed to or am currenly working on: [Lauren's Projects: ] (./projects.md)
 
-[Lauren's Projects: ] (./projects.md)
+**My Network**
 
-My Network
+Click here to view my LinkedIn profile: [Lauren's LinkedIn: ] (https://www.linkedin.com/in/lauren-galle-775724187/)
 
-[Lauren's LinkedIn: ] (https://www.linkedin.com/in/lauren-galle-775724187/)
-
-[Lauren's GitHub: ] (https://github.com/laurengalle)
-
-```
+Click here to visit see the different GitHub repositories I have worked on: [Lauren's GitHub: ] (https://github.com/laurengalle)
