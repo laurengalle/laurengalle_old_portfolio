@@ -1,4 +1,4 @@
-<img src="Lauren_Profile.png" width="200" height="300">
+<img src="Lauren_Profile.png" width="200" height="300" border-radius: 50%>
 
 ## About Lauren
 
