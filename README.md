@@ -17,10 +17,10 @@ Below are the my links to my other work and experience that you can browse to ga
 
 **My Projects**
 
-Click here to learn about the different projects I have contributed to or am currenly working on: [Lauren's Projects:](./projects.md)
+Click here to learn about the different projects I have contributed to or am currenly working on: [Lauren's Projects](./projects.md)
 
 **My Network**
 
-Click here to view my LinkedIn profile: [Lauren's LinkedIn:](https://www.linkedin.com/in/lauren-galle-775724187/)
+Click here to view my LinkedIn profile: [Lauren's LinkedIn](https://www.linkedin.com/in/lauren-galle-775724187/)
 
-Click here to visit see the different GitHub repositories I have worked on: [Lauren's GitHub:](https://github.com/laurengalle)
+Click here to visit see the different GitHub repositories I have worked on: [Lauren's GitHub](https://github.com/laurengalle)
