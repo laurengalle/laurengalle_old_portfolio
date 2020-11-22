@@ -87,6 +87,8 @@ This project was my first website development project. With a team, I helped dev
 **What I Gained From This Project**
 I gained a lot of front-end skills from this project. This was the project that sparked my interest in front-end work and designing for the user, as a whole. I was able to tap into my creativity to create an aesthetic and effective design for the user. 
 
+____________________________________________________________________________________________________________________________________________________________________
+
 [Return to Home Page](./README.md)
 
 
