@@ -2,7 +2,7 @@
 
 
 ### Oregon State University Craft Center Online Tool
-```javascript
+
 **Date**
 Fall 2020 - Present
 
@@ -21,11 +21,11 @@ As a team of four, I have been collaborating with my peers to create an online m
 
 **What I Gained From This Project**
 Even though I have only recently started this project, I have gained a lot of great experience and knowledge from my work so far. I have learned the importance of communication with my project partner and stakeholders. I have also gained the skill of explaining technical goals to non-technical individuals, as this project is for creative artists of the Craft Center. This project requires me to work with technology that I am not as familiar with, which has helped get me out of my comfort zone and learn new languages that can help with my future career. 
-```
+
 ____________________________________________________________________________________________________________________________________________________________________
 
 ### Kernel Movie Review Website
-```javascript
+
 **Date**
 Spring 2020
 
@@ -43,11 +43,11 @@ For this project, my team and I created a movie review website, Kernel. We used 
 
 **What I Gained From This Project**
 The main aspect I gained from this project was having to work with a database. I had to create a database from scratch and understand how to connect it to the website with all of the proper operations. I was also able to strengthen my front-end visual skills with CSS. 
-```
+
 ____________________________________________________________________________________________________________________________________________________________________
 
 ### Traveling Salesman Algorithm 
-```javascript
+
 **Date**
 Winter 2020
 
@@ -63,11 +63,11 @@ This project involved trying to find the fastest alogorithm for the Traveling Sa
 
 **What I Gained From This Project**
 This project was useful for me to better understand the different computer algorithms and how they can be ustilized for the fastest solution to an every day probem like the Traveling Salesman problem. I researched various different algorithms and worked with a team to help determine which one was the fastest and most effective. 
-```
+
 ____________________________________________________________________________________________________________________________________________________________________
 
 ### Phi Sigma Rho Recruitment Website 
-```javascript
+
 **Date**
 Spring 2019
 
@@ -86,7 +86,7 @@ This project was my first website development project. With a team, I helped dev
 
 **What I Gained From This Project**
 I gained a lot of front-end skills from this project. This was the project that sparked my interest in front-end work and designing for the user, as a whole. I was able to tap into my creativity to create an aesthetic and effective design for the user. 
-```
+
 ____________________________________________________________________________________________________________________________________________________________________
 
 [Return to Home Page](./README.md)
