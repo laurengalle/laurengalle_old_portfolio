@@ -1,4 +1,4 @@
-![Image of Lauren](Lauren_Profile.png s=100)
+![Image of Lauren](Lauren_Profile.png | width=100)
 
 ## About Lauren
 
