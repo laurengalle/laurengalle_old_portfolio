@@ -1,6 +1,4 @@
-![Image of Lauren](Lauren_Profile.png | width=100)
-
-<img src="Lauren_Profile.png" width="100" height="100">
+<img src="Lauren_Profile.png" width="500" height="700" radius=50%>
 
 ## About Lauren
 
