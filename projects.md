@@ -9,18 +9,30 @@ Fall 2020 - Present
 **Repo**
 [Repository for this project](https://dev.azure.com/munafh/_git/CS461-Crafters)
 
+**Prototype**
+[View our prototype](https://www.figma.com/file/u7LsY06nrcdUraEuHpPQDH/OSU-Craft-Center-Prototypes?node-id=74%3A169)
+
+**Demo Video**
+[Watch our demo video to learn more about how each feature works](https://media.oregonstate.edu/media/t/1_7kd65oxz)
+
 **Description** 
-As a team of four, I have been collaborating with my peers to create an online membership and class registration website for the Craft Center at Oregon State University. As of right now, the Craft Center completes all of their transactions through a paper-only system. It is currently my goal, with the help of my team, to create an easy and effective user interface for both the Craft Center members and employees. 
+As a team of four, I have been collaborating with my peers to create an online membership and class registration website for the Craft Center at Oregon State University. As of right now, the Craft Center completes all of their transactions through a paper-only system. Through the development of this project, my team and I have made an effective registration tool that allows students at OSU to register for membership and classes, and allows the employees of the Craft Center to manage membership through our administrative portal.  
 
 **Languages and Technology**
-- ASP.NET
-- React
-- C#
-- MS SQL
-- Azure DevOps
+- ASP.NET Core
+- C# (for back-end)
+- HTML and CSS (for front-end)
+- MS SQL Database 
+- SAML 2.0
+- Entity Framework Core
 
 **What I Gained From This Project**
 Even though I have only recently started this project, I have gained a lot of great experience and knowledge from my work so far. I have learned the importance of communication with my project partner and stakeholders. I have also gained the skill of explaining technical goals to non-technical individuals, as this project is for creative artists of the Craft Center. This project requires me to work with technology that I am not as familiar with, which has helped get me out of my comfort zone and learn new languages that can help with my future career. 
+
+**Personal Contributions To This Project**
+During development of this project, I was responsible for handling membership registration for future students. I had to create a form that students could fill out with all off their information so that it would be saved to their personal profile page. With this membership form, all of the user's information is read into the database, thus creating a new user. I ensured that any one user could only be created once, through the use of unique identifiers that were assigned to each account. The membership form requires that each user agrees to all of the Craft Center policies before they are allowed to move forward and become a member. 
+
+I also assisted in the administrative side of our website, where I helped allow the admins of the Craft Center to be able to update or delete any existing members within the database. With my knowledge of human computer interaction, I made sure that the admin interface was simple and easy to understand for the Craft Center employees and students that will use our website. I did this through effective styling, as well as requiring minimal steps that need to be taken by the user. 
 
 ____________________________________________________________________________________________________________________________________________________________________
 
