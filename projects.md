@@ -7,7 +7,7 @@
 Fall 2020 - Present
 
 **Repo**
-[Repository for this project](https://dev.azure.com/munafh/_git/CS461-Crafters)
+[Repository for this project](https://github.com/hamzamunaf/CS462-CraftCenter)
 
 **Prototype**
 [View our prototype](https://www.figma.com/file/u7LsY06nrcdUraEuHpPQDH/OSU-Craft-Center-Prototypes?node-id=74%3A169)
