@@ -36,6 +36,26 @@ I also assisted in the administrative side of our website, where I helped allow 
 
 ____________________________________________________________________________________________________________________________________________________________________
 
+### Spotify API Web App
+
+**Date**
+Spring 2021
+
+**Description** 
+For this project, I utilized the public Spotofy API to create a React-based web application. With this app, my team and I allowed the user to search for different artists, related artists, top tracks, and songs within an album. We used the different spotify endpoints to render unique pages based on the user's search input.  
+
+**Languages and Technology**
+- HTML
+- CSS
+- React
+- Redux
+- JavaScript
+
+**What I Gained From This Project**
+The main aspect I gained from this project was having to work with an API that I was unfamiliar with. The Spotify API was well documented, but was much more extensive than I was used to. This project gave me a much better understanding of how APIs are organized. It also taught me a lot about user authentication, which was required to ensure that the user had a valid Spotify account before being able to access this information from the Spotify API. 
+
+____________________________________________________________________________________________________________________________________________________________________
+
 ### Kernel Movie Review Website
 
 **Date**
