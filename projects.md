@@ -39,7 +39,7 @@ ________________________________________________________________________________
 ### Spotify API Web App
 
 **Date**
-Spring 2021
+Winter 2021
 
 **Description** 
 For this project, I utilized the public Spotofy API to create a React-based web application. With this app, my team and I allowed the user to search for different artists, related artists, top tracks, and songs within an album. We used the different spotify endpoints to render unique pages based on the user's search input.  
